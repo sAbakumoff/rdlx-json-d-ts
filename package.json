@@ -1,0 +1,25 @@
+{
+  "name": "rdlx-json-d-ts",
+  "version": "1.0.0",
+  "description": "RDLX-JSON Definition to Import ActiveReportsJS Files in TypeScript projects",
+  "typings": "type/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sAbakumoff/rdlx-json-d-ts.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "ActiveReportsJS",
+    "import",
+    "report"
+  ],
+  "author": "GrapeCity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sAbakumoff/rdlx-json-d-ts/issues"
+  },
+  "homepage": "https://github.com/sAbakumoff/rdlx-json-d-ts#readme"
+}
